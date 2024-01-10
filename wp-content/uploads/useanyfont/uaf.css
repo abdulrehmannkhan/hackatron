@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'baby-monsta';
+					src: url('5016Baby-Monsta.woff2') format('woff2'),
+						url('5016Baby-Monsta.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.baby-monsta{font-family: 'baby-monsta' !important;}
+
+		
